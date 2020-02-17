@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>J:/A1/A1/Content/Music/MenuTheme.mp3</SourceFile>
+  <SourceTime>2020-02-16T16:17:32-05:00</SourceTime>
+  <DestFile>J:/A1/A1/Content/bin/DesktopGL/Music/MenuTheme.xnb</DestFile>
+  <DestTime>2020-02-16T16:21:22-05:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-10-11T14:37:00-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-10-11T14:37:00-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>J:/A1/A1/Content/bin/DesktopGL/Music/MenuTheme.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
